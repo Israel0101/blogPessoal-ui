@@ -1,0 +1,10 @@
+.parallax {
+    background-image: url('https://i2.wp.com/jac9ja.ng/wp-content/uploads/2019/09/aprender-programacion-web.jpg?fit=958%2C600&ssl=1');
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
